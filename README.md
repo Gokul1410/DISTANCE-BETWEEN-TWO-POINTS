@@ -19,13 +19,21 @@ Print the distance.
 End the program
 
 ### PROGRAM:
+
 # Developed by: Gokul C 
+
 # Register Number: 212223240040
+
 import math
+
 list1=[4,2]
+
 list2=[10,6]
+
 d=math.sqrt((list2[0]-list1[0])**2+(list2[1]-list1[1])**2)
+
 print(f"{d:.2f}")
+
 
 
 ### OUTPUT:
