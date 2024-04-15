@@ -37,6 +37,9 @@ print(f"{d:.2f}")
 
 ### OUTPUT:
 
+![Screenshot 2024-04-15 132857](https://github.com/Gokul1410/DISTANCE-BETWEEN-TWO-POINTS/assets/153058321/51d8c8dd-c768-48f2-9e06-b0f8e5f9bea2)
+
+
 ![Screenshot 2024-04-15 132914](https://github.com/Gokul1410/DISTANCE-BETWEEN-TWO-POINTS/assets/153058321/d73f1608-146c-4baf-a70b-607975dd8e98)
 
 
